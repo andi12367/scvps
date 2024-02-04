@@ -1,5 +1,5 @@
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/randi123w/scvps/main/premium.sh && ./premium.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/andi12367/scvps/main/setup.sh && ./setup.sh
 </code></pre>
 
 ### UPDATE SCRIPT
