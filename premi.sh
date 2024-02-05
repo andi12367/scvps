@@ -127,7 +127,7 @@ fi
 echo -e "\e[32mloading...\e[0m"
 clear
 # REPO
-    REPO="https://raw.githubusercontent.com/andi12367/scvps/main/"
+    REPO="https://raw.githubusercontent.com/andi12367/scvps/main"
 
 ####
 start=$(date +%s)
